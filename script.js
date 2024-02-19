@@ -50,3 +50,6 @@ for (var i = 1; i <= numero; i++) {
 }
 
 alert("o fatorial de " + numero + " é: " + fatorial);
+
+
+///MENSAGEM
